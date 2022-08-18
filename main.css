@@ -28,6 +28,10 @@ body{
     text-shadow: 4px;
 }
 
+#flash {
+    color: red;
+}
+
 #nav{
     box-shadow: 4px 4px;
 }
